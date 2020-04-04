@@ -1,0 +1,8 @@
+这是一个生成ntc表格的脚本,生产ntc 代码表
+
+依赖
+pip install numpy
+
+使用帮助
+python ntc_table_creator.py -h
+
